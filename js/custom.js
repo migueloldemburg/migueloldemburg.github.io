@@ -335,6 +335,7 @@
 		// magnificPopupControl();
 		smoothScroll();
 		portfolioMasonry();
+
 	});
 
 	
