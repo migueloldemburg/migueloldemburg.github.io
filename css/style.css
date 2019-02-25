@@ -6,7 +6,6 @@ body {
   font-weight: 300; }
 
 
-
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -606,3 +605,15 @@ a {
   .block-47 .block-47-quote .block-47-quote-author {
     font-size: 14px;
     color: #666666; }
+
+
+@media (min-width: 768px) {
+   .modal-lg {
+    width: 100%;
+  } 
+}
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}
